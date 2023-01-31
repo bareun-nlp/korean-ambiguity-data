@@ -1,0 +1,34 @@
+[
+  {
+    "text": "그거를 죄 수집을 해 갖고선 고걸 고대로 엎어놓고 판각을 합니다.",
+    "answer": "죄/MAG",
+    "split_answer": [
+      "죄",
+      "MAG"
+    ]
+  },
+  {
+    "text": "읽어가면서 어떤 용어가 나오면 그걸 죄 적어요 카드에다가.",
+    "answer": "죄/MAG",
+    "split_answer": [
+      "죄",
+      "MAG"
+    ]
+  },
+  {
+    "text": "정직하게 고백을 하면 용서받지 못할 죄 없습니다.",
+    "answer": "죄/NNG",
+    "split_answer": [
+      "죄",
+      "NNG"
+    ]
+  },
+  {
+    "text": "그니까 죄 짓게 하고 싶지 않아",
+    "answer": "죄/NNG",
+    "split_answer": [
+      "죄",
+      "NNG"
+    ]
+  }
+]

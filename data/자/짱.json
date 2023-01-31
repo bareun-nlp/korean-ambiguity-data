@@ -1,0 +1,18 @@
+[
+  {
+    "text": "송현주 선생님 짱 좋아요",
+    "answer": "짱/MAG",
+    "split_answer": [
+      "짱",
+      "MAG"
+    ]
+  },
+  {
+    "text": "김어준 짱 해보세요.",
+    "answer": "짱/NNG",
+    "split_answer": [
+      "짱",
+      "NNG"
+    ]
+  }
+]

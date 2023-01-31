@@ -1,0 +1,30 @@
+[
+  {
+    "text": "황성주 두유가 있는데",
+    "answer": "두유/NNG+가/JKS",
+    "split_answer": [
+      [
+        "두유",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "그거는 두유가 아니야",
+    "answer": "두유/NNG+가/JKC",
+    "split_answer": [
+      [
+        "두유",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  }
+]

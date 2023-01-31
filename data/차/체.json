@@ -1,0 +1,26 @@
+[
+  {
+    "text": "아는 체 하고 다니고",
+    "answer": "체/NNB",
+    "split_answer": [
+      "체",
+      "NNB"
+    ]
+  },
+  {
+    "text": "그래서 이렇게 체 써는데",
+    "answer": "체/NNG",
+    "split_answer": [
+      "체",
+      "NNG"
+    ]
+  },
+  {
+    "text": "꽂이대를 빙빙 돌려가며 구경하다 혁명가 체 게바라가 골프 치는 사진들을 발견했다.",
+    "answer": "체/NNP",
+    "split_answer": [
+      "체",
+      "NNP"
+    ]
+  }
+]

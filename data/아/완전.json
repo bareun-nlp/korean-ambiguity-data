@@ -1,0 +1,66 @@
+[
+  {
+    "text": "현빈 완전 잘생겼지.",
+    "answer": "완전/MAG",
+    "split_answer": [
+      "완전",
+      "MAG"
+    ]
+  },
+  {
+    "text": "가슴 그 쪽도 완전 살이 빠져 가지고 장난 아니더라.",
+    "answer": "완전/MAG",
+    "split_answer": [
+      "완전",
+      "MAG"
+    ]
+  },
+  {
+    "text": "그래도 할아버지는 완전 건강이 좋으신가보다.",
+    "answer": "완전/MAG",
+    "split_answer": [
+      "완전",
+      "MAG"
+    ]
+  },
+  {
+    "text": "아 완전 좋아.",
+    "answer": "완전/MAG",
+    "split_answer": [
+      "완전",
+      "MAG"
+    ]
+  },
+  {
+    "text": "시민들 바람은 완전 직선제이다.",
+    "answer": "완전/NNG",
+    "split_answer": [
+      "완전",
+      "NNG"
+    ]
+  },
+  {
+    "text": "이 부분을 빼고 가면 의혹에 완전 해설은 어려울 것 같애요.",
+    "answer": "완전/NNG",
+    "split_answer": [
+      "완전",
+      "NNG"
+    ]
+  },
+  {
+    "text": "이것이 완전 반환이 아니라 영구 임대형식으로 취한다라고 하죠?",
+    "answer": "완전/NNG",
+    "split_answer": [
+      "완전",
+      "NNG"
+    ]
+  },
+  {
+    "text": "독일의 엔지니어링그룹 지멘스가 18일(현지시각) 원전 사업 완전 철수를 선언했다.",
+    "answer": "완전/NNG",
+    "split_answer": [
+      "완전",
+      "NNG"
+    ]
+  }
+]

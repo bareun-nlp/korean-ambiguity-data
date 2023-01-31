@@ -1,0 +1,130 @@
+[
+  {
+    "text": "국민소득이 오천 불 자리도 있고 오만 불짜리도 있고 오백 불짜리도 있는데",
+    "answer": "불/NNB",
+    "split_answer": [
+      "불",
+      "NNB"
+    ]
+  },
+  {
+    "text": "그럴 경우에 그 초등학교 세우는 비용이 약 약 오백만 불",
+    "answer": "불/NNB",
+    "split_answer": [
+      "불",
+      "NNB"
+    ]
+  },
+  {
+    "text": "이제는 한 나라에 어 약 천만 불 정도",
+    "answer": "불/NNB",
+    "split_answer": [
+      "불",
+      "NNB"
+    ]
+  },
+  {
+    "text": "일 년에 십만 불",
+    "answer": "불/NNB",
+    "split_answer": [
+      "불",
+      "NNB"
+    ]
+  },
+  {
+    "text": "삼백 불 정도 어",
+    "answer": "불/NNB",
+    "split_answer": [
+      "불",
+      "NNB"
+    ]
+  },
+  {
+    "text": "그때만 해도 어 약 일 년에 모로코라는 나라에 약 십만 불 정도가 배정이 됐습니다",
+    "answer": "불/NNB",
+    "split_answer": [
+      "불",
+      "NNB"
+    ]
+  },
+  {
+    "text": "이것을 월별로 나누면은 어 한 달에 이천 불",
+    "answer": "불/NNB",
+    "split_answer": [
+      "불",
+      "NNB"
+    ]
+  },
+  {
+    "text": "네 그러고 인제 불 보시고 이제 조금 예.",
+    "answer": "불/NNG",
+    "split_answer": [
+      "불",
+      "NNG"
+    ]
+  },
+  {
+    "text": "그 불 조절만 잘 하면은 이렇게 맛있는",
+    "answer": "불/NNG",
+    "split_answer": [
+      "불",
+      "NNG"
+    ]
+  },
+  {
+    "text": "왜 그들 진짜 그 불 딱 끄고 나서",
+    "answer": "불/NNG",
+    "split_answer": [
+      "불",
+      "NNG"
+    ]
+  },
+  {
+    "text": "칠순의 희극배우가 불 꺼진 극장에서 배우로서 자신의 진짜 재능을 감추고 살아온 가슴 아픈 이유를 털어놓으며 리어왕과 햄릿의 명대사를 풀어놓는다.",
+    "answer": "불/NNG",
+    "split_answer": [
+      "불",
+      "NNG"
+    ]
+  },
+  {
+    "text": "원내 핵심 관계자는 “정권의 핵심 실세(최 의원)를 청문회에 세워놓고 ‘국민 혈세로 밑 빠진 독에 물 붓기 했다’는 책임을 지우며 정치 쟁점화하려는 의도가 불 보듯 빤히 보이는 상황에서 야당의 증인 채택 요구를 어떻게 받아들일 수 있겠느냐”고 반문했다.",
+    "answer": "불/NNG",
+    "split_answer": [
+      "불",
+      "NNG"
+    ]
+  },
+  {
+    "text": "네 그럼 마지막에 불 끄기 직전에 팽이버섯",
+    "answer": "불/NNG",
+    "split_answer": [
+      "불",
+      "NNG"
+    ]
+  },
+  {
+    "text": "네 바로 불 꺼 주셔도 됩니다.",
+    "answer": "불/NNG",
+    "split_answer": [
+      "불",
+      "NNG"
+    ]
+  },
+  {
+    "text": "불 약간만 줄여주시고",
+    "answer": "불/NNG",
+    "split_answer": [
+      "불",
+      "NNG"
+    ]
+  },
+  {
+    "text": "불 좀 줄이구요 네.",
+    "answer": "불/NNG",
+    "split_answer": [
+      "불",
+      "NNG"
+    ]
+  }
+]

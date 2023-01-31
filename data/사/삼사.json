@@ -1,0 +1,66 @@
+[
+  {
+    "text": "삼사 그때 교수로 있어 가지고",
+    "answer": "삼사/NNP",
+    "split_answer": [
+      "삼사",
+      "NNP"
+    ]
+  },
+  {
+    "text": "삼사 거기에 교수로 있으니까",
+    "answer": "삼사/NNP",
+    "split_answer": [
+      "삼사",
+      "NNP"
+    ]
+  },
+  {
+    "text": "그때 이 사람이 삼사 교수거든?",
+    "answer": "삼사/NNP",
+    "split_answer": [
+      "삼사",
+      "NNP"
+    ]
+  },
+  {
+    "text": "뭐 삼사 출신",
+    "answer": "삼사/NNP",
+    "split_answer": [
+      "삼사",
+      "NNP"
+    ]
+  },
+  {
+    "text": "향후 삼사 년 동안",
+    "answer": "삼사/NR",
+    "split_answer": [
+      "삼사",
+      "NR"
+    ]
+  },
+  {
+    "text": "제가 보니까 대통령이 일 주일에 한 삼사 분 근무하세요.",
+    "answer": "삼사/NR",
+    "split_answer": [
+      "삼사",
+      "NR"
+    ]
+  },
+  {
+    "text": "반반이야 힘은 들어 그래서 한 삼사 년 하고",
+    "answer": "삼사/NR",
+    "split_answer": [
+      "삼사",
+      "NR"
+    ]
+  },
+  {
+    "text": "그러면 몇 년 한 삼사 년을 그렇게 내비 둬가지고는",
+    "answer": "삼사/NR",
+    "split_answer": [
+      "삼사",
+      "NR"
+    ]
+  }
+]

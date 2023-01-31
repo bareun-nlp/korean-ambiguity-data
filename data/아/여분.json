@@ -1,0 +1,24 @@
+[
+  {
+    "text": "이십 여분 지난 것 같은데",
+    "answer": "여/XSN+분/NNB",
+    "split_answer": [
+      [
+        "여",
+        "XSN"
+      ],
+      [
+        "분",
+        "NNB"
+      ]
+    ]
+  },
+  {
+    "text": "약간 여분 남는게 있잖아요",
+    "answer": "여분/NNG",
+    "split_answer": [
+      "여분",
+      "NNG"
+    ]
+  }
+]

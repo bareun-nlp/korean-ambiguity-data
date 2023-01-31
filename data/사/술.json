@@ -1,0 +1,210 @@
+[
+  {
+    "text": "두 큰 술 준비하시구요",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "네 큰 술 정도가 나오그든요?",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "소주 두 큰 술 정도를 넣어 주셔야 돼요.",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "한 큰 술 정도만 두르시고요",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "한 술 큰술 정도면 돼요.",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "한 큰 술 정도 느시면 좋겠어요",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "그 다음에 간장도 두 큰 술",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "간장이 두 큰 술 정도면은요",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "간장 예 이백구람이면 한 큰 술 정도 넣으시면 되구요",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "마늘 한 큰 술 정도 준비하시고요",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "한 한 작은 술 정도만 늫세요.",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "한 술 저어 주시구요.",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "한나라당 친박 의원들은 몇 술 더 뜬다.",
+    "answer": "술/NNB",
+    "split_answer": [
+      "술",
+      "NNB"
+    ]
+  },
+  {
+    "text": "기내에서 술 마시고 소란 피우는 남자들을 진정시킬 때 스튜어드의 진가가 발휘된다.",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "강 청장은 또 “내가 (경찰청) 공보관을 끝내고 미국 연수를 준비하면서, 기자들이 술 한잔 사라고 해서 (술자리를 가진 뒤) 2차를 갔다”며 “모텔에서 기자들에게 (방)열쇠를 나눠주며 ‘내가 이 나이에 별일을 다 하고 있다’는 생각도 들었다”고 말했다.",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "아니야 내 내 주변에 술 안 먹는 친구도 많은데",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "근데 난 술 마시는 거 별로 안 좋아해요.",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "술 땡겨?",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "사석에서 친구들과 술 한잔하면서 같이 깔깔거리고, 때론 곁에서 울어주기도 하잖아요.",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "B의원이 묵은 호텔에는 술 냄새가 진동했고 B의원은 A씨가 문을 열고 들어오자마자 강제로 침대에 눕혀 옷을 벗기고 성관계를 시도했다는 주장이다.",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "나한테 한 번 밥 술 먹고 또 또 뎀벼들더라고.",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "사회생활을 하다 보면 술 먹고 사람들과 어울릴 일이 많지만 자전거가 좋아지면 생활 패턴을 자전거에 맞추게 되고, 규칙적인 생활을 하게 된다는 것이다.",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "술 취한 어떤 상관 놈이 총을 쏴서 죽였다.",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "그러기로 해서 우리 술 남기고 왔잖아 했거든 그니까 나도 나 마지막날 출근해서 정리까지 했으니까.",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "수고스럽게 느껴지는 거지 지금 나는 술 먹고 그동안에 그 대리운전 해주고",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  },
+  {
+    "text": "그리고 특히 편의점은 문을 열었는데 술 코너는 아예 그걸 다 닫아 놓은 거예요. 그래서",
+    "answer": "술/NNG",
+    "split_answer": [
+      "술",
+      "NNG"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "text": "울 학교를 가는 거야.",
+    "answer": "울/NP",
+    "split_answer": [
+      "울",
+      "NP"
+    ]
+  },
+  {
+    "text": "울 엄마는 옛날에 허리 수술을 했기 땜에 보험이 안 된다.",
+    "answer": "울/NP",
+    "split_answer": [
+      "울",
+      "NP"
+    ]
+  },
+  {
+    "text": "그나마 울 엄마는 무릎 수술은 안 했다.",
+    "answer": "울/NP",
+    "split_answer": [
+      "울",
+      "NP"
+    ]
+  },
+  {
+    "text": "아 지금 당장 못 해 울 엄마 봐",
+    "answer": "울/NP",
+    "split_answer": [
+      "울",
+      "NP"
+    ]
+  }
+]

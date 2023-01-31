@@ -1,0 +1,18 @@
+[
+  {
+    "text": "고건 선배님",
+    "answer": "고건/NNP",
+    "split_answer": [
+      "고건",
+      "NNP"
+    ]
+  },
+  {
+    "text": "고건. 고건 아버지. 고형권 이런 양반.",
+    "answer": "고건/NNP",
+    "split_answer": [
+      "고건",
+      "NNP"
+    ]
+  }
+]

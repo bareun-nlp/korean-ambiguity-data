@@ -1,0 +1,26 @@
+[
+  {
+    "text": "칠십 억 받은 거 탈 날 것 같으니까",
+    "answer": "탈/NNG",
+    "split_answer": [
+      "탈",
+      "NNG"
+    ]
+  },
+  {
+    "text": "자주 만나면 탈 나는 게 인간사다.",
+    "answer": "탈/NNG",
+    "split_answer": [
+      "탈",
+      "NNG"
+    ]
+  },
+  {
+    "text": "순탄하니 그냥 막 아무 탈 없이 사는 집도 없고",
+    "answer": "탈/NNG",
+    "split_answer": [
+      "탈",
+      "NNG"
+    ]
+  }
+]

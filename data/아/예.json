@@ -1,0 +1,50 @@
+[
+  {
+    "text": "예 맞습니다.",
+    "answer": "예/IC",
+    "split_answer": [
+      "예",
+      "IC"
+    ]
+  },
+  {
+    "text": "예. 그 인제 교원 평가 같은 경우도 이제 좋은 예 사례라고 생각하는데요.",
+    "answer": "예/NNG",
+    "split_answer": [
+      "예",
+      "NNG"
+    ]
+  },
+  {
+    "text": "예 먼저 올려주시고요.",
+    "answer": "예/IC",
+    "split_answer": [
+      "예",
+      "IC"
+    ]
+  },
+  {
+    "text": "예 예를 들어서 폐해가 있으면은 뭐 쫌 고려해 볼 수 있겠는데",
+    "answer": "예/NNG",
+    "split_answer": [
+      "예",
+      "NNG"
+    ]
+  },
+  {
+    "text": "그 예 쫌 그걸 써포트할 수 있는 예 중에 하나로",
+    "answer": "예/NNG",
+    "split_answer": [
+      "예",
+      "NNG"
+    ]
+  },
+  {
+    "text": "예. 그 인제 교원 평가 같은 경우도 이제 좋은 예 사례라고 생각하는데요.",
+    "answer": "예/NNG",
+    "split_answer": [
+      "예",
+      "NNG"
+    ]
+  }
+]

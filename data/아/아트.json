@@ -1,0 +1,18 @@
+[
+  {
+    "text": "EU는 2008년을 ‘유럽 문화 간 대화의 해(European Year of Intercultural Dialogue)’로 정하고 ‘다양성 속에서 함께(Together in Diversity)’라는 슬로건 아래 사진 콘테스트, 아트 페스티벌 등 여러 가지 행사를 진행했다.",
+    "answer": "아트/NNG",
+    "split_answer": [
+      "아트",
+      "NNG"
+    ]
+  },
+  {
+    "text": "알 마야사 공주는 듀크대, 컬럼비아대 대학원을 거친 미국 유학파이고, 알 카시미 공주는 런던 슬레이드(Slade) 아트 스쿨, 왕립예술대에서 수학한 영국 유학파다.",
+    "answer": "아트/NNP",
+    "split_answer": [
+      "아트",
+      "NNP"
+    ]
+  }
+]

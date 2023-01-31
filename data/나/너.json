@@ -1,0 +1,82 @@
+[
+  {
+    "text": "혼자서 너 어디 갔다 왔니?",
+    "answer": "너/NP",
+    "split_answer": [
+      "너",
+      "NP"
+    ]
+  },
+  {
+    "text": "너 지금까지 자고 있으면 되냐",
+    "answer": "너/NP",
+    "split_answer": [
+      "너",
+      "NP"
+    ]
+  },
+  {
+    "text": "그리고 너 일 배운 거 아까워서라도",
+    "answer": "너/NP",
+    "split_answer": [
+      "너",
+      "NP"
+    ]
+  },
+  {
+    "text": "그래서 너 지금 그만 두면",
+    "answer": "너/NP",
+    "split_answer": [
+      "너",
+      "NP"
+    ]
+  },
+  {
+    "text": "응 그래 너 지금 이제 와서 인제 슬럼프인 거 같애",
+    "answer": "너/NP",
+    "split_answer": [
+      "너",
+      "NP"
+    ]
+  },
+  {
+    "text": "근데 너 그런 식으로 하면 안 된다고",
+    "answer": "너/NP",
+    "split_answer": [
+      "너",
+      "NP"
+    ]
+  },
+  {
+    "text": "너 주말 알바 계속할 거야?",
+    "answer": "너/NP",
+    "split_answer": [
+      "너",
+      "NP"
+    ]
+  },
+  {
+    "text": "근데 너 심 십 일 넘게 간다매.",
+    "answer": "너/NP",
+    "split_answer": [
+      "너",
+      "NP"
+    ]
+  },
+  {
+    "text": "너 얼마 주고 했어?",
+    "answer": "너/NP",
+    "split_answer": [
+      "너",
+      "NP"
+    ]
+  },
+  {
+    "text": "너 홍삼 때문에 그럴 수도 있어",
+    "answer": "너/NP",
+    "split_answer": [
+      "너",
+      "NP"
+    ]
+  }
+]

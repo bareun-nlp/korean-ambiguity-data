@@ -1,0 +1,26 @@
+[
+  {
+    "text": "아 근데 서밤 브런치 찾아왔다가 저 꺼 팔로우 해 주시는 분들도 계시더라구요",
+    "answer": "꺼/NNB",
+    "split_answer": [
+      "꺼",
+      "NNB"
+    ]
+  },
+  {
+    "text": "그렇지? 자기 아빠 꺼 챙겨야지",
+    "answer": "꺼/NNB",
+    "split_answer": [
+      "꺼",
+      "NNB"
+    ]
+  },
+  {
+    "text": "그럼 얘가 인제 얘기를 할 꺼 아니에요?",
+    "answer": "꺼/NNB",
+    "split_answer": [
+      "꺼",
+      "NNB"
+    ]
+  }
+]

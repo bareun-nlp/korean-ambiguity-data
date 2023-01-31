@@ -1,0 +1,18 @@
+[
+  {
+    "text": "사당 있고 동서좌우측에 회하나무 한 그루 심은",
+    "answer": "사당/NNG",
+    "split_answer": [
+      "사당",
+      "NNG"
+    ]
+  },
+  {
+    "text": "사당 갈 수도 없고",
+    "answer": "사당/NNP",
+    "split_answer": [
+      "사당",
+      "NNP"
+    ]
+  }
+]

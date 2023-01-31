@@ -1,0 +1,30 @@
+[
+  {
+    "text": "바로 딜이 들어가네요. 예.",
+    "answer": "딜/NNG+이/JKS",
+    "split_answer": [
+      [
+        "딜",
+        "NNG"
+      ],
+      [
+        "이",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "그거야 뭐 딜이 아니죠",
+    "answer": "딜/NNG+이/JKC",
+    "split_answer": [
+      [
+        "딜",
+        "NNG"
+      ],
+      [
+        "이",
+        "JKC"
+      ]
+    ]
+  }
+]

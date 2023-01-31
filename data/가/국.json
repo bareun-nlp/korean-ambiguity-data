@@ -1,0 +1,42 @@
+[
+  {
+    "text": "채소로 국 끓일 때도 카레 조금만 넣고 끓이잖아요",
+    "answer": "국/NNG",
+    "split_answer": [
+      "국",
+      "NNG"
+    ]
+  },
+  {
+    "text": "국 없이는 밥을 못 드시거든",
+    "answer": "국/NNG",
+    "split_answer": [
+      "국",
+      "NNG"
+    ]
+  },
+  {
+    "text": "아마 국 맛의 반은 황태 육수가 좌우할 거라고 생각해요.",
+    "answer": "국/NNG",
+    "split_answer": [
+      "국",
+      "NNG"
+    ]
+  },
+  {
+    "text": "오빠 국 중에 뭐 제일 중요해?",
+    "answer": "국/NNG",
+    "split_answer": [
+      "국",
+      "NNG"
+    ]
+  },
+  {
+    "text": "아유 국 종류를 어떻게 해야 되나",
+    "answer": "국/NNG",
+    "split_answer": [
+      "국",
+      "NNG"
+    ]
+  }
+]

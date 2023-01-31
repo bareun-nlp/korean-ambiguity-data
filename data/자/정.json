@@ -1,0 +1,34 @@
+[
+  {
+    "text": "정 안 되면 다른 일을 찾아라.",
+    "answer": "정/MAG",
+    "split_answer": [
+      "정",
+      "MAG"
+    ]
+  },
+  {
+    "text": "지난해 미국은  필리핀이 주문한 M-4 소총 2만6000여 정 판매를 금지했다.",
+    "answer": "정/NNB",
+    "split_answer": [
+      "정",
+      "NNB"
+    ]
+  },
+  {
+    "text": "결혼 생활을 하면서도 그냥 미운 정 고운 정 다 들었어요",
+    "answer": "정/NNG",
+    "split_answer": [
+      "정",
+      "NNG"
+    ]
+  },
+  {
+    "text": "정 의원은  대검 청사에 도착했다.",
+    "answer": "정/NNP",
+    "split_answer": [
+      "정",
+      "NNP"
+    ]
+  }
+]

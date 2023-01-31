@@ -1,0 +1,26 @@
+[
+  {
+    "text": "괜히 겁 먹는 거 같은데요?",
+    "answer": "겁/NNG",
+    "split_answer": [
+      "겁",
+      "NNG"
+    ]
+  },
+  {
+    "text": "눈 큰 사람들이 어른들이 옛날에 그러시잖아요 겁 많다고.",
+    "answer": "겁/NNG",
+    "split_answer": [
+      "겁",
+      "NNG"
+    ]
+  },
+  {
+    "text": "제가 겁 많은 건 어떻게 아셨어요 선생님?",
+    "answer": "겁/NNG",
+    "split_answer": [
+      "겁",
+      "NNG"
+    ]
+  }
+]

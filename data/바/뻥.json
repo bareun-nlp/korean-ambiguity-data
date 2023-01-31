@@ -1,0 +1,18 @@
+[
+  {
+    "text": "아 진짜 속이 뻥 뚫리는 것 같은",
+    "answer": "뻥/MAG",
+    "split_answer": [
+      "뻥",
+      "MAG"
+    ]
+  },
+  {
+    "text": "뻥 치지마.",
+    "answer": "뻥/NNG",
+    "split_answer": [
+      "뻥",
+      "NNG"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "text": "애기들은 음식을 몇 점 안 먹는다.",
+    "answer": "점/NNB",
+    "split_answer": [
+      "점",
+      "NNB"
+    ]
+  },
+  {
+    "text": "십 점 만점에 십 점.",
+    "answer": "점/NNB",
+    "split_answer": [
+      "점",
+      "NNB"
+    ]
+  },
+  {
+    "text": "미 국방부는 김 병장이 의무병이었고 한국계라는 점 등을 고려해 이런 결정을 했다고 알려졌다.",
+    "answer": "점/NNG",
+    "split_answer": [
+      "점",
+      "NNG"
+    ]
+  },
+  {
+    "text": "그는 일회용 공약이 아니라는 점을 강조했다.",
+    "answer": "점/NNG",
+    "split_answer": [
+      "점",
+      "NNG"
+    ]
+  }
+]

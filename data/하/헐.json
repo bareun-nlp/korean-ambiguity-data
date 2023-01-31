@@ -1,0 +1,34 @@
+[
+  {
+    "text": "어 헐",
+    "answer": "헐/IC",
+    "split_answer": [
+      "헐",
+      "IC"
+    ]
+  },
+  {
+    "text": "아 헐 그런 방법도 있구나.",
+    "answer": "헐/IC",
+    "split_answer": [
+      "헐",
+      "IC"
+    ]
+  },
+  {
+    "text": "헐 그렇지. 그 피가 어디로 가.",
+    "answer": "헐/IC",
+    "split_answer": [
+      "헐",
+      "IC"
+    ]
+  },
+  {
+    "text": "어어어 헐",
+    "answer": "헐/IC",
+    "split_answer": [
+      "헐",
+      "IC"
+    ]
+  }
+]

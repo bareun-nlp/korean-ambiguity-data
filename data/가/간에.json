@@ -1,0 +1,100 @@
+[
+  {
+    "text": "서로 부서 간에 수석실 간에 조율도 했다.",
+    "answer": "간/NNB+에/JKB",
+    "split_answer": [
+      [
+        "간",
+        "NNB"
+      ],
+      [
+        "에",
+        "JKB"
+      ]
+    ]
+  },
+  {
+    "text": "사실은 보수 진보 간에 토론회 못지 않게 대화가 안 됩니다.",
+    "answer": "간/NNB+에/JKG",
+    "split_answer": [
+      [
+        "간",
+        "NNB"
+      ],
+      [
+        "에",
+        "JKG"
+      ]
+    ]
+  },
+  {
+    "text": "남녀 간에 우정은 가능한가",
+    "answer": "간/NNB+에/JKG",
+    "split_answer": [
+      [
+        "간",
+        "NNB"
+      ],
+      [
+        "에",
+        "JKG"
+      ]
+    ]
+  },
+  {
+    "text": "그래서 간에 그 피로도 풀어주고 땜에",
+    "answer": "간/NNG+에/JKB",
+    "split_answer": [
+      [
+        "간",
+        "NNG"
+      ],
+      [
+        "에",
+        "JKB"
+      ]
+    ]
+  },
+  {
+    "text": "울화기가 있어서 간에 열이 많아 갖고 다이어트 약을 못 짓는대.",
+    "answer": "간/NNG+에/JKB",
+    "split_answer": [
+      [
+        "간",
+        "NNG"
+      ],
+      [
+        "에",
+        "JKB"
+      ]
+    ]
+  },
+  {
+    "text": "그럼 신라랑 이 천년 간에",
+    "answer": "간/XSN+에/JKB",
+    "split_answer": [
+      [
+        "간",
+        "XSN"
+      ],
+      [
+        "에",
+        "JKB"
+      ]
+    ]
+  },
+  {
+    "text": "또 미국 그 역사 지난 한 백년 간에",
+    "answer": "간/XSN+에/JKB",
+    "split_answer": [
+      [
+        "간",
+        "XSN"
+      ],
+      [
+        "에",
+        "JKB"
+      ]
+    ]
+  }
+]

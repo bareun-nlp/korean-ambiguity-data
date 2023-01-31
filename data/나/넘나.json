@@ -1,0 +1,18 @@
+[
+  {
+    "text": "넘나 대단한 것.",
+    "answer": "넘나/MAG",
+    "split_answer": [
+      "넘나",
+      "MAG"
+    ]
+  },
+  {
+    "text": "넘나 대단하신 약간 영어도 잘하고",
+    "answer": "넘나/MAG",
+    "split_answer": [
+      "넘나",
+      "MAG"
+    ]
+  }
+]

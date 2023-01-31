@@ -1,0 +1,50 @@
+[
+  {
+    "text": "물론, 수출 화물이 줄어들기 때문에 마냥 반가워할 수만은 없다.",
+    "answer": "마냥/MAG",
+    "split_answer": [
+      "마냥",
+      "MAG"
+    ]
+  },
+  {
+    "text": "그렇다고 선수들이 마냥 풀어지지는 않았다는 게 김민우의 얘기였다.",
+    "answer": "마냥/MAG",
+    "split_answer": [
+      "마냥",
+      "MAG"
+    ]
+  },
+  {
+    "text": "마냥 지켜 줘야 될 것 같고",
+    "answer": "마냥/MAG",
+    "split_answer": [
+      "마냥",
+      "MAG"
+    ]
+  },
+  {
+    "text": "그래서 얘 죽인 것 마냥",
+    "answer": "마냥/JKB",
+    "split_answer": [
+      "마냥",
+      "JKB"
+    ]
+  },
+  {
+    "text": "으흠 이렇게 그러면 이게 국화송이 마냥 올라와",
+    "answer": "마냥/JKB",
+    "split_answer": [
+      "마냥",
+      "JKB"
+    ]
+  },
+  {
+    "text": "전 겨 걸레질한 것 마냥 반질반질 빛이 난다",
+    "answer": "마냥/JKB",
+    "split_answer": [
+      "마냥",
+      "JKB"
+    ]
+  }
+]

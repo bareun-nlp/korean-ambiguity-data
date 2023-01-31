@@ -1,0 +1,58 @@
+[
+  {
+    "text": "맛이 굉장히 쪼끔 다르실 거예요.",
+    "answer": "맛/NNG+이/JKS",
+    "split_answer": [
+      [
+        "맛",
+        "NNG"
+      ],
+      [
+        "이",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "겨울 배추는 요렇게 단 맛이 있어요.",
+    "answer": "맛/NNG+이/JKS",
+    "split_answer": [
+      [
+        "맛",
+        "NNG"
+      ],
+      [
+        "이",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "매운 맛이 아니고요",
+    "answer": "맛/NNG+이/JKC",
+    "split_answer": [
+      [
+        "맛",
+        "NNG"
+      ],
+      [
+        "이",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "그런 맛이 되고 있습니다",
+    "answer": "맛/NNG+이/JKC",
+    "split_answer": [
+      [
+        "맛",
+        "NNG"
+      ],
+      [
+        "이",
+        "JKC"
+      ]
+    ]
+  }
+]
