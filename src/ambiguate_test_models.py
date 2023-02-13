@@ -67,6 +67,26 @@ class Model:
             for token in analyzed['return_object']['sentence'][0]['morp']:
                 anal_tokens.append((token['lemma'], token['type']))
             return anal_tokens
+        elif type(self).__name__ == "KiwiModel":
+            anal_tokens = []
+            analyzed = self._tokenize(text)
+            for word in analyzed:
+                form = word.form
+                tag = word.tag
+                if word.tag == 'VV-I' or word.tag == 'VV-R':
+                    tag = 'VV'
+                elif word.tag == 'VA-I' or word.tag == 'VA-R':
+                    tag = 'VA'
+                elif "ᆯ" in word.form:
+                    form = word.form.replace("ᆯ", "ㄹ")
+                elif "ᆫ" in word.form:
+                    form = word.form.replace("ᆫ", "ㄴ")
+                elif "ᆸ" in word.form:
+                    form = word.form.replace("ᆸ", "ㅂ")
+                elif "ᆷ" in word.form:
+                    form = word.form.replace("ᆷ", "ㅁ")
+                anal_tokens.append((form, tag))
+            return anal_tokens
         else:
             return list(map(self._convert, self._tokenize(text)))
 
@@ -388,6 +408,11 @@ def evaluate(dataset, model, error_output=None, print_all_results=False):
         correct = False
         try:
             result = model.tokenize(exam)
+            if type(model).__name__ == "KhaiiiModel":
+                for i, t in enumerate(result):
+                    # khaiii 모델은 관형사를 mm으로만 분류하므로 그냥 세부분류까지 맞춘것으로 본다.
+                    if ("MM" in t[1] and "MM" in answer[1]) and (t[0] == answer[0]):
+                        result[i] = (answer[0], answer[1])
         except:
             print(f'{type(model).__name__} tokenizer error!')
             continue
