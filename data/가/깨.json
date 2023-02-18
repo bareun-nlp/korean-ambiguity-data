@@ -1,0 +1,18 @@
+[
+  {
+    "text": "그걸 깨 소스하고 많이 섞어쓰거든요?",
+    "answer": "깨/NNG",
+    "split_answer": [
+      "깨",
+      "NNG"
+    ]
+  },
+  {
+    "text": "위에다가 깨 쪼끔 뿌려주시고요.",
+    "answer": "깨/NNG",
+    "split_answer": [
+      "깨",
+      "NNG"
+    ]
+  }
+]

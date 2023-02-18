@@ -1,0 +1,18 @@
+[
+  {
+    "text": "지금 유네스코에서는 크로스보드 에듀케이션 해서",
+    "answer": "에듀케이션/NNG",
+    "split_answer": [
+      "에듀케이션",
+      "NNG"
+    ]
+  },
+  {
+    "text": "외국에서는 중국에 20개 캠퍼스를 운영 중인 차이나 메이플 리프 앤드 스쿨 밴쿠버 교육재단(CHINA MAPLE LEAF AND SCHOOLS VANCOUVER LTD)과 서울에 유치원을 운영하는 영국법인 오비탈 에듀케이션 교육재단(ORBITAL EDUCTON LTD)이 도전장을 던졌다.",
+    "answer": "에듀케이션/NNP",
+    "split_answer": [
+      "에듀케이션",
+      "NNP"
+    ]
+  }
+]

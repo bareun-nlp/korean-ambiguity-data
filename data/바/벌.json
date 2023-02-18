@@ -1,0 +1,66 @@
+[
+  {
+    "text": "한 네 벌 다섯 벌 했는데",
+    "answer": "벌/NNB",
+    "split_answer": [
+      "벌",
+      "NNB"
+    ]
+  },
+  {
+    "text": "거의 한 벌 값",
+    "answer": "벌/NNB",
+    "split_answer": [
+      "벌",
+      "NNB"
+    ]
+  },
+  {
+    "text": "그래서 한 몇 벌 했지?",
+    "answer": "벌/NNB",
+    "split_answer": [
+      "벌",
+      "NNB"
+    ]
+  },
+  {
+    "text": "맥주잔에 걸쳐 놓은 젓가락 한 벌 위에 사케잔을 올리고 테이블을 쳐서 아래로 빠뜨려 마신다.",
+    "answer": "벌/NNB",
+    "split_answer": [
+      "벌",
+      "NNB"
+    ]
+  },
+  {
+    "text": "죄와 벌 같은 경우에는 어",
+    "answer": "벌/NNG",
+    "split_answer": [
+      "벌",
+      "NNG"
+    ]
+  },
+  {
+    "text": "송충 피해를 막기 위한 특단의 대책으로 '송충 없애는 데 가장 굳센' 벌 17만마리를 일본에서 들여오기도 했다.",
+    "answer": "벌/NNG",
+    "split_answer": [
+      "벌",
+      "NNG"
+    ]
+  },
+  {
+    "text": "죽을 만큼 괴롭혔는데, 왜 나이가 어리다고 벌 받지 않나요?\" 이군의 친구는 인터넷에 이런 글을 올렸다.",
+    "answer": "벌/NNG",
+    "split_answer": [
+      "벌",
+      "NNG"
+    ]
+  },
+  {
+    "text": "한겨울 도심에서 벌 키우는 재미?",
+    "answer": "벌/NNG",
+    "split_answer": [
+      "벌",
+      "NNG"
+    ]
+  }
+]

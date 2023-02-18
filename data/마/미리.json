@@ -1,0 +1,130 @@
+[
+  {
+    "text": "그것을 미리 탐지하기도 어렵고요",
+    "answer": "미리/MAG",
+    "split_answer": [
+      "미리",
+      "MAG"
+    ]
+  },
+  {
+    "text": "현장을 보고 나는 범인 조두순이 이 장소를 미리 점찍어 두었을 것이라는 확신이 들었다.",
+    "answer": "미리/MAG",
+    "split_answer": [
+      "미리",
+      "MAG"
+    ]
+  },
+  {
+    "text": "지금 저희가 시간 관계든 미리 끓여 논 게 있죠.",
+    "answer": "미리/MAG",
+    "split_answer": [
+      "미리",
+      "MAG"
+    ]
+  },
+  {
+    "text": "종지에 미리 다 묻혀 놓고",
+    "answer": "미리/MAG",
+    "split_answer": [
+      "미리",
+      "MAG"
+    ]
+  },
+  {
+    "text": "한 달 정도 미리 준비해야 한다",
+    "answer": "미리/MAG",
+    "split_answer": [
+      "미리",
+      "MAG"
+    ]
+  },
+  {
+    "text": "이제 미리 이십 파운드 삼십 파운드를 넣고",
+    "answer": "미리/MAG",
+    "split_answer": [
+      "미리",
+      "MAG"
+    ]
+  },
+  {
+    "text": "아니 긍까 집들이니까 미리 준비해 갔어야지 선물을",
+    "answer": "미리/MAG",
+    "split_answer": [
+      "미리",
+      "MAG"
+    ]
+  },
+  {
+    "text": "어 그런데 어제 뉴스공장 출연하신다고 어제 미리 공지를 하셨던데",
+    "answer": "미리/MAG",
+    "split_answer": [
+      "미리",
+      "MAG"
+    ]
+  },
+  {
+    "text": "또 이 임산부들은 삼백 미리 정도",
+    "answer": "미리/NNB",
+    "split_answer": [
+      "미리",
+      "NNB"
+    ]
+  },
+  {
+    "text": "그니까 천 미리 먹는 거지.",
+    "answer": "미리/NNB",
+    "split_answer": [
+      "미리",
+      "NNB"
+    ]
+  },
+  {
+    "text": "한 오 미리 정도 크기로 썰어 주시면 될 것 같아요.",
+    "answer": "미리/NNB",
+    "split_answer": [
+      "미리",
+      "NNB"
+    ]
+  },
+  {
+    "text": "한 오 미리 크기로",
+    "answer": "미리/NNB",
+    "split_answer": [
+      "미리",
+      "NNB"
+    ]
+  },
+  {
+    "text": "약간 한 이 미리 정도 두께에",
+    "answer": "미리/NNB",
+    "split_answer": [
+      "미리",
+      "NNB"
+    ]
+  },
+  {
+    "text": "허용량이 성인 경우는 사백 미리 이상을 좀 안 먹었으면 좋겠다",
+    "answer": "미리/NNB",
+    "split_answer": [
+      "미리",
+      "NNB"
+    ]
+  },
+  {
+    "text": "우리 왜 오백 미리 우유는 이만 하잖아.",
+    "answer": "미리/NNB",
+    "split_answer": [
+      "미리",
+      "NNB"
+    ]
+  },
+  {
+    "text": "이렇게 그 몇 센치 몇 미리",
+    "answer": "미리/NNB",
+    "split_answer": [
+      "미리",
+      "NNB"
+    ]
+  }
+]

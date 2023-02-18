@@ -1,0 +1,26 @@
+[
+  {
+    "text": "그 싸인 하러 가는 거야 싸인하러",
+    "answer": "싸인/NNG",
+    "split_answer": [
+      "싸인",
+      "NNG"
+    ]
+  },
+  {
+    "text": "싸인 할 수 있을 때 싸인 하도록",
+    "answer": "싸인/NNG",
+    "split_answer": [
+      "싸인",
+      "NNG"
+    ]
+  },
+  {
+    "text": "아 탄핵 발의 싸인 하는 거 말이죠?",
+    "answer": "싸인/NNG",
+    "split_answer": [
+      "싸인",
+      "NNG"
+    ]
+  }
+]

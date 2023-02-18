@@ -1,0 +1,18 @@
+[
+  {
+    "text": "아니 겉 보기에 아 뭐랄까 느낌이 약간",
+    "answer": "겉/NNG",
+    "split_answer": [
+      "겉",
+      "NNG"
+    ]
+  },
+  {
+    "text": "네 생선의 비린내는 다 요 겉 비닐에서 다 나요.",
+    "answer": "겉/NNG",
+    "split_answer": [
+      "겉",
+      "NNG"
+    ]
+  }
+]

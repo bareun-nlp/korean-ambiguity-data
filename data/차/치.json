@@ -1,0 +1,26 @@
+[
+  {
+    "text": "실로암밴드는 멤버 전원이 한 치 앞도 못 보거나 가까운 물체만 간신히 분간한다.",
+    "answer": "치/NNB",
+    "split_answer": [
+      "치",
+      "NNB"
+    ]
+  },
+  {
+    "text": "너 같으면 치 안떨겠니? 떨지",
+    "answer": "치/NNG",
+    "split_answer": [
+      "치",
+      "NNG"
+    ]
+  },
+  {
+    "text": "일단 십오일 치 해서",
+    "answer": "치/XSN",
+    "split_answer": [
+      "치",
+      "XSN"
+    ]
+  }
+]

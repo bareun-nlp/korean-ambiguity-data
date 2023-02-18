@@ -1,0 +1,50 @@
+[
+  {
+    "text": "심지어 톡 쏘는 홍어회가 청국장에 들어가면 홍어애탕 맛이 나는 ‘홍어 샤부샤부’가 된다.",
+    "answer": "톡/MAG",
+    "split_answer": [
+      "톡",
+      "MAG"
+    ]
+  },
+  {
+    "text": "톡 쏘면서 알싸한 맛이 더 강해져요.",
+    "answer": "톡/MAG",
+    "split_answer": [
+      "톡",
+      "MAG"
+    ]
+  },
+  {
+    "text": "아주 그 톡 쏘는 매콤함이 있어서 맛있다.",
+    "answer": "톡/MAG",
+    "split_answer": [
+      "톡",
+      "MAG"
+    ]
+  },
+  {
+    "text": "아까 톡 왔던데 나한테?",
+    "answer": "톡/NNG",
+    "split_answer": [
+      "톡",
+      "NNG"
+    ]
+  },
+  {
+    "text": "또 괜히 톡 해 가지고 문제를 만들었다.",
+    "answer": "톡/NNG",
+    "split_answer": [
+      "톡",
+      "NNG"
+    ]
+  },
+  {
+    "text": "근데 오늘 갑자기 톡 와 가지고 깜짝 놀랐어.",
+    "answer": "톡/NNG",
+    "split_answer": [
+      "톡",
+      "NNG"
+    ]
+  }
+]

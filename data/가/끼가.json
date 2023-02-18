@@ -1,0 +1,30 @@
+[
+  {
+    "text": "백내장 끼가 있어 가지고",
+    "answer": "끼/XSN+가/JKS",
+    "split_answer": [
+      [
+        "끼",
+        "XSN"
+      ],
+      [
+        "가",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "치매 끼가 아니야 언니",
+    "answer": "끼/XSN+가/JKC",
+    "split_answer": [
+      [
+        "끼",
+        "XSN"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  }
+]

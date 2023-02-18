@@ -1,0 +1,122 @@
+[
+  {
+    "text": "이게 도저히 대 여섯 명으로 쪼개져 가지고는 정권 창출이 무망하다.",
+    "answer": "대/MMN",
+    "split_answer": [
+      "대",
+      "MMN"
+    ]
+  },
+  {
+    "text": "이제 외교관 대 여섯 사람 밖에 없잖아요?",
+    "answer": "대/MMN",
+    "split_answer": [
+      "대",
+      "MMN"
+    ]
+  },
+  {
+    "text": "한국 철학계에 거물들이 인제 한 대 여섯 명이 다 들어가 있었어.",
+    "answer": "대/MMN",
+    "split_answer": [
+      "대",
+      "MMN"
+    ]
+  },
+  {
+    "text": "지난해 5월 청약한 ‘천안 불당 지웰 더샵’은 평균 29.53 대 1의 경쟁률로 분양 4일 만에 100% 계약을 마친 바 있다.",
+    "answer": "대/NNB",
+    "split_answer": [
+      "대",
+      "NNB"
+    ]
+  },
+  {
+    "text": "몇 대 쯤 돌아 가야 됩니까?",
+    "answer": "대/NNB",
+    "split_answer": [
+      "대",
+      "NNB"
+    ]
+  },
+  {
+    "text": "국내 수입차 업체 중 연간 3만 대 판매 실적을 올린 곳은 현재 BMW코리아가 유일하다.",
+    "answer": "대/NNB",
+    "split_answer": [
+      "대",
+      "NNB"
+    ]
+  },
+  {
+    "text": "에 주목해야 될 십 대 키워드를 선정을 해서 발표를 해 왔습니다.",
+    "answer": "대/NNG",
+    "split_answer": [
+      "대",
+      "NNG"
+    ]
+  },
+  {
+    "text": "그리고 그 마추피추라는 게 세계 칠 대 불가사의잖아요.",
+    "answer": "대/NNG",
+    "split_answer": [
+      "대",
+      "NNG"
+    ]
+  },
+  {
+    "text": "어 지금 이미 세계 삼 대 경제권이 될 수가 있습니다.",
+    "answer": "대/NNG",
+    "split_answer": [
+      "대",
+      "NNG"
+    ]
+  },
+  {
+    "text": "지구에 대 재앙이 있었습니다.",
+    "answer": "대/XPN",
+    "split_answer": [
+      "대",
+      "XPN"
+    ]
+  },
+  {
+    "text": "대 동독 투자가 굉장히 지연이 됐습니다.",
+    "answer": "대/XPN",
+    "split_answer": [
+      "대",
+      "XPN"
+    ]
+  },
+  {
+    "text": "그러나 아까 말씀드린 그런 대 국가전략의 관점에서 보면",
+    "answer": "대/XPN",
+    "split_answer": [
+      "대",
+      "XPN"
+    ]
+  },
+  {
+    "text": "벌써 칠십 대 중반 넘으셨는데 이제",
+    "answer": "대/XSN",
+    "split_answer": [
+      "대",
+      "XSN"
+    ]
+  },
+  {
+    "text": "백만 원 대 더라고 그래서",
+    "answer": "대/XSN",
+    "split_answer": [
+      "대",
+      "XSN"
+    ]
+  },
+  {
+    "text": "우리가 장기적으로 쓰읍 저 한 오 퍼센트 대 이상의 평균 수익률은 올려야",
+    "answer": "대/XSN",
+    "split_answer": [
+      "대",
+      "XSN"
+    ]
+  }
+]

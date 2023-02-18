@@ -1,0 +1,86 @@
+[
+  {
+    "text": "내 친구가 한 명이 무서운 걸 못 타 가지고",
+    "answer": "명/NNB+이/JKS",
+    "split_answer": [
+      [
+        "명",
+        "NNB"
+      ],
+      [
+        "이",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "저기 가평 연수원에 교육받으러 이제 네 명이 모닝을 타고 같이 가는데",
+    "answer": "명/NNB+이/JKS",
+    "split_answer": [
+      [
+        "명",
+        "NNB"
+      ],
+      [
+        "이",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "스물한 명이 아닌가 봐",
+    "answer": "명/NNB+이/JKC",
+    "split_answer": [
+      [
+        "명",
+        "NNB"
+      ],
+      [
+        "이",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "예 등산의 인구가 지금 일 년에 삼천만 명이 된답니다.",
+    "answer": "명/NNB+이/JKC",
+    "split_answer": [
+      [
+        "명",
+        "NNB"
+      ],
+      [
+        "이",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "그래서 기도 명이 뭔지 알아 요즘",
+    "answer": "명/NNG+이/JKS",
+    "split_answer": [
+      [
+        "명",
+        "NNG"
+      ],
+      [
+        "이",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "그래서 기도 명이 뭔지 알아 요즘",
+    "answer": "명/NNG+이/JKS",
+    "split_answer": [
+      [
+        "명",
+        "NNG"
+      ],
+      [
+        "이",
+        "JKS"
+      ]
+    ]
+  }
+]

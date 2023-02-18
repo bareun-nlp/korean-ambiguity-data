@@ -1,0 +1,66 @@
+[
+  {
+    "text": "나 지금 삼 화 남았어 삼 화",
+    "answer": "화/NNB",
+    "split_answer": [
+      "화",
+      "NNB"
+    ]
+  },
+  {
+    "text": "지금 삼 화 다시 봐야 되는데 언제 보지",
+    "answer": "화/NNB",
+    "split_answer": [
+      "화",
+      "NNB"
+    ]
+  },
+  {
+    "text": "오 화 남았던데 오늘 거 끝나면",
+    "answer": "화/NNB",
+    "split_answer": [
+      "화",
+      "NNB"
+    ]
+  },
+  {
+    "text": "어 근데 일 화 때가 무서운데",
+    "answer": "화/NNB",
+    "split_answer": [
+      "화",
+      "NNB"
+    ]
+  },
+  {
+    "text": "백팔배 하고 나한테 그걸 시키길래 내가 화 한 번 냈는데",
+    "answer": "화/NNG",
+    "split_answer": [
+      "화",
+      "NNG"
+    ]
+  },
+  {
+    "text": "내가 이거 화 내고 욕 했던 것은 어떤 방식으로 바꾸는 게 좋겠는가",
+    "answer": "화/NNG",
+    "split_answer": [
+      "화",
+      "NNG"
+    ]
+  },
+  {
+    "text": "오 화 수 학교 안 가나?",
+    "answer": "화/NNG",
+    "split_answer": [
+      "화",
+      "NNG"
+    ]
+  },
+  {
+    "text": "아니 사람들이 화 나서 막 올려.",
+    "answer": "화/NNG",
+    "split_answer": [
+      "화",
+      "NNG"
+    ]
+  }
+]

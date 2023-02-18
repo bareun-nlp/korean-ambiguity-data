@@ -1,0 +1,18 @@
+[
+  {
+    "text": "뭐 여러 가지 뭐 한라봉도 괜찮고 다 괜찮",
+    "answer": "괜찮/VA",
+    "split_answer": [
+      "괜찮",
+      "VA"
+    ]
+  },
+  {
+    "text": "name1는 괜찮 재밌대?",
+    "answer": "괜찮/VA",
+    "split_answer": [
+      "괜찮",
+      "VA"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "text": "어머니는 절도 다니신다.",
+    "answer": "절/NNG+도/JX",
+    "split_answer": [
+      [
+        "절",
+        "NNG"
+      ],
+      [
+        "도",
+        "JX"
+      ]
+    ]
+  },
+  {
+    "text": "사람들이 절도 많이 다닌다.",
+    "answer": "절/NNG+도/JX",
+    "split_answer": [
+      [
+        "절",
+        "NNG"
+      ],
+      [
+        "도",
+        "JX"
+      ]
+    ]
+  },
+  {
+    "text": "절도 유형은 크게 2가지로, 매우 단순하다.",
+    "answer": "절도/NNG",
+    "split_answer": [
+      "절도",
+      "NNG"
+    ]
+  },
+  {
+    "text": "불황에 길거리 폐품 절도 기승",
+    "answer": "절도/NNG",
+    "split_answer": [
+      "절도",
+      "NNG"
+    ]
+  }
+]

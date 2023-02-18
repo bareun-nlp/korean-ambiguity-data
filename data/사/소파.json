@@ -1,0 +1,18 @@
+[
+  {
+    "text": "비행기뿐만 아니라 사무실 책상, 집 안 소파 등 일상생활에서 계속 앉아있는 습관 때문에 발생하는 정맥혈전색전증을 ‘SIT 증후군(Seated Immobility Thromboembolism Syndrome)’이라고 부른다.",
+    "answer": "소파/NNG",
+    "split_answer": [
+      "소파",
+      "NNG"
+    ]
+  },
+  {
+    "text": "소파 방정환 선생이 주축이 된 색동회는 1923년 창립기념일인 5월 1일을 어린이날로 정했다.",
+    "answer": "소파/NNP",
+    "split_answer": [
+      "소파",
+      "NNP"
+    ]
+  }
+]

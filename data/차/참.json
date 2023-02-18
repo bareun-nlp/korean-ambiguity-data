@@ -1,0 +1,18 @@
+[
+  {
+    "text": "습관화 된 게 일이라고 하니까 참 놀랍습니다.",
+    "answer": "참/MAG",
+    "split_answer": [
+      "참",
+      "MAG"
+    ]
+  },
+  {
+    "text": "아유 참",
+    "answer": "참/IC",
+    "split_answer": [
+      "참",
+      "IC"
+    ]
+  }
+]

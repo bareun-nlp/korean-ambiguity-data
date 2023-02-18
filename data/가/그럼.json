@@ -1,0 +1,50 @@
+[
+  {
+    "text": "그럼 오셔야 되는 거 아니야 힘든데?",
+    "answer": "그럼/MAJ",
+    "split_answer": [
+      "그럼",
+      "MAJ"
+    ]
+  },
+  {
+    "text": "그럼 언어학과에서 해야되죠.",
+    "answer": "그럼/MAJ",
+    "split_answer": [
+      "그럼",
+      "MAJ"
+    ]
+  },
+  {
+    "text": "그럼 그럼.",
+    "answer": "그럼/IC",
+    "split_answer": [
+      "그럼",
+      "IC"
+    ]
+  },
+  {
+    "text": "확실하지 그럼",
+    "answer": "그럼/IC",
+    "split_answer": [
+      "그럼",
+      "IC"
+    ]
+  },
+  {
+    "text": "그러니까 이 말씀은 현대 한국에서 왕정체제가 부활 되었다라는 그럼 말씀이 아니고",
+    "answer": "그럼/MMD",
+    "split_answer": [
+      "그럼",
+      "MMD"
+    ]
+  },
+  {
+    "text": "왜냐하면 전통시장이 또 대영유통할인매장 보다 가격 경쟁력이 높은 그럼 품목이 있기 때문에",
+    "answer": "그럼/MMD",
+    "split_answer": [
+      "그럼",
+      "MMD"
+    ]
+  }
+]

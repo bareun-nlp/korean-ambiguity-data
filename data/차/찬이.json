@@ -1,0 +1,24 @@
+[
+  {
+    "text": "멸치도 좋은 찬이 되죠",
+    "answer": "찬/NNG+이/JKC",
+    "split_answer": [
+      [
+        "찬",
+        "NNG"
+      ],
+      [
+        "이",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "찬이 엄마가 그 찬이 놀게 할 애냐?",
+    "answer": "찬이/NNP",
+    "split_answer": [
+      "찬이",
+      "NNP"
+    ]
+  }
+]

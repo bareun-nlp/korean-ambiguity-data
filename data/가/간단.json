@@ -1,0 +1,34 @@
+[
+  {
+    "text": "세상에 이렇게 간단 할 수가 있습니까?",
+    "answer": "간단/XR",
+    "split_answer": [
+      "간단",
+      "XR"
+    ]
+  },
+  {
+    "text": "안보문제, 북핵·테러리즘 등 간단 언급 그쳐",
+    "answer": "간단/XR",
+    "split_answer": [
+      "간단",
+      "XR"
+    ]
+  },
+  {
+    "text": "그러느니 간단 간단하게 만드셔 가지구요.",
+    "answer": "간단/XR",
+    "split_answer": [
+      "간단",
+      "XR"
+    ]
+  },
+  {
+    "text": "좀 간단 간단한.",
+    "answer": "간단/XR",
+    "split_answer": [
+      "간단",
+      "XR"
+    ]
+  }
+]

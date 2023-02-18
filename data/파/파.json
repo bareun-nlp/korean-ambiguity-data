@@ -1,0 +1,26 @@
+[
+  {
+    "text": "파 다진 거를 양념에 넣었다.",
+    "answer": "파/NNG",
+    "split_answer": [
+      "파",
+      "NNG"
+    ]
+  },
+  {
+    "text": "파 있으면 라면에 넣어주세요.",
+    "answer": "파/NNG",
+    "split_answer": [
+      "파",
+      "NNG"
+    ]
+  },
+  {
+    "text": "매운탕과 볶음의 중간 정도로 고추 깻잎 파 양파 고추장 등을 자글자글 끓이는 것이다.",
+    "answer": "파/NNG",
+    "split_answer": [
+      "파",
+      "NNG"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "text": "잘못된 비판 중에 하나가 아닌 가 생각이 듭니다.",
+    "answer": "가/EF",
+    "split_answer": [
+      "가",
+      "EF"
+    ]
+  },
+  {
+    "text": "네. 우리 연구소 심볼마크 가 사x선이라고 들었습니다",
+    "answer": "가/JKS",
+    "split_answer": [
+      "가",
+      "JKS"
+    ]
+  },
+  {
+    "text": "엔젤피쉬? 가 아니면은",
+    "answer": "가/JKC",
+    "split_answer": [
+      "가",
+      "JKC"
+    ]
+  },
+  {
+    "text": "모음 자음을 합치면 가 나 소리가 나게",
+    "answer": "가/NNG",
+    "split_answer": [
+      "가",
+      "NNG"
+    ]
+  },
+  {
+    "text": "이밖에 가 교수는 30년대 경주 황복사터와 헌덕왕릉 십이지신상 등의 조사 당시 사진들도 함께 공개했다.",
+    "answer": "가/NNP",
+    "split_answer": [
+      "가",
+      "NNP"
+    ]
+  },
+  {
+    "text": "가 있어. 그때 이 어 뭐",
+    "answer": "가/NP",
+    "split_answer": [
+      "가",
+      "NP"
+    ]
+  }
+]

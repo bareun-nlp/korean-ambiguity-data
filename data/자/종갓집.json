@@ -1,0 +1,18 @@
+[
+  {
+    "text": "종갓집 큰집이 망원동에 있어서",
+    "answer": "종갓집/NNG",
+    "split_answer": [
+      "종갓집",
+      "NNG"
+    ]
+  },
+  {
+    "text": "이거 다 종갓집 거야",
+    "answer": "종갓집/NNP",
+    "split_answer": [
+      "종갓집",
+      "NNP"
+    ]
+  }
+]

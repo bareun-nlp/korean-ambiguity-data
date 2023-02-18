@@ -1,0 +1,34 @@
+[
+  {
+    "text": "쏘스 제가 뿌릴까요?",
+    "answer": "쏘스/NNG",
+    "split_answer": [
+      "쏘스",
+      "NNG"
+    ]
+  },
+  {
+    "text": "그럼 그냥 쏘스 자체가 맛있게 되그든요?",
+    "answer": "쏘스/NNG",
+    "split_answer": [
+      "쏘스",
+      "NNG"
+    ]
+  },
+  {
+    "text": "쏘스 뮤직.",
+    "answer": "쏘스/NNP",
+    "split_answer": [
+      "쏘스",
+      "NNP"
+    ]
+  },
+  {
+    "text": "그 기획사 이름이 쏘스 뮤직이더라구요.",
+    "answer": "쏘스/NNP",
+    "split_answer": [
+      "쏘스",
+      "NNP"
+    ]
+  }
+]

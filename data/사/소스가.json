@@ -1,0 +1,142 @@
+[
+  {
+    "text": "소스가 진짜 맛있네요.",
+    "answer": "소스/NNG+가/JKS",
+    "split_answer": [
+      [
+        "소스",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "왜냐면 소스를 일본식 돈까스는 먹어보면 소스가 맛있잖아요.",
+    "answer": "소스/NNG+가/JKS",
+    "split_answer": [
+      [
+        "소스",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "이게 어 소스가 뜨겁군요.",
+    "answer": "소스/NNG+가/JKS",
+    "split_answer": [
+      [
+        "소스",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "아주 향긋하고 거기다가 소스가 정말 고소하네요.",
+    "answer": "소스/NNG+가/JKS",
+    "split_answer": [
+      [
+        "소스",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "그 때마다 이제 집집마다 만드는 소스가 조금씩은 달라요.",
+    "answer": "소스/NNG+가/JKS",
+    "split_answer": [
+      [
+        "소스",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "이 우유 들어간 국물이 소스가 되는거군요.",
+    "answer": "소스/NNG+가/JKC",
+    "split_answer": [
+      [
+        "소스",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "소스가 된 거죠.",
+    "answer": "소스/NNG+가/JKC",
+    "split_answer": [
+      [
+        "소스",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "소스가 되는 거에요?",
+    "answer": "소스/NNG+가/JKC",
+    "split_answer": [
+      [
+        "소스",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "소스가 돼요.",
+    "answer": "소스/NNG+가/JKC",
+    "split_answer": [
+      [
+        "소스",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "왜냐면 또 소스가 있으니까",
+    "answer": "소스/NNG+가/JKS",
+    "split_answer": [
+      [
+        "소스",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKS"
+      ]
+    ]
+  }
+]

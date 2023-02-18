@@ -1,0 +1,34 @@
+[
+  {
+    "text": "그니까는 방금 공장장님 말씀하신대로",
+    "answer": "방금/MAG",
+    "split_answer": [
+      "방금",
+      "MAG"
+    ]
+  },
+  {
+    "text": "이게 되게 애매한 게 방금 말씀하신 대로.",
+    "answer": "방금/MAG",
+    "split_answer": [
+      "방금",
+      "MAG"
+    ]
+  },
+  {
+    "text": "예 최하고 오늘 방금 전에 저 xx에서 발표한",
+    "answer": "방금/NNG",
+    "split_answer": [
+      "방금",
+      "NNG"
+    ]
+  },
+  {
+    "text": "오늘 삼분기 경제 실적이 발표가 났거든요. 방금 전에 여덟 시에?",
+    "answer": "방금/NNG",
+    "split_answer": [
+      "방금",
+      "NNG"
+    ]
+  }
+]

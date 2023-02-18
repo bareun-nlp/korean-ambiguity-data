@@ -1,0 +1,130 @@
+[
+  {
+    "text": "그래서 거 도서관정책기획단 생각하고 있습니다.",
+    "answer": "거/IC",
+    "split_answer": [
+      "거",
+      "IC"
+    ]
+  },
+  {
+    "text": "초등학교 동창들도 많이 만나서 거 모임들도 많이 갖더라고요.",
+    "answer": "거/IC",
+    "split_answer": [
+      "거",
+      "IC"
+    ]
+  },
+  {
+    "text": "거 보통 가면 우리 이제 저가로.",
+    "answer": "거/IC",
+    "split_answer": [
+      "거",
+      "IC"
+    ]
+  },
+  {
+    "text": "고 때 아주 거 인재들이 많이 나왔네 보니까.",
+    "answer": "거/IC",
+    "split_answer": [
+      "거",
+      "IC"
+    ]
+  },
+  {
+    "text": "거 송해 씨 바로 보이는 자리를 두 자리를 해서",
+    "answer": "거/MMD",
+    "split_answer": [
+      "거",
+      "MMD"
+    ]
+  },
+  {
+    "text": "예 뭐 백두산 거 남쪽만 보면",
+    "answer": "거/MMD",
+    "split_answer": [
+      "거",
+      "MMD"
+    ]
+  },
+  {
+    "text": "법정에 가 가지고 거 사람 몰래.",
+    "answer": "거/MMD",
+    "split_answer": [
+      "거",
+      "MMD"
+    ]
+  },
+  {
+    "text": "거 둘 중에 하나는 꼭 그렇게 있더라구",
+    "answer": "거/MMD",
+    "split_answer": [
+      "거",
+      "MMD"
+    ]
+  },
+  {
+    "text": "그 친구가 하 이거 되게 육개장 맛 나는 거 같은데라고 했는데",
+    "answer": "거/NNB",
+    "split_answer": [
+      "거",
+      "NNB"
+    ]
+  },
+  {
+    "text": "오늘 참 뜻깊은 자리가 될 거 같습니다.",
+    "answer": "거/NNB",
+    "split_answer": [
+      "거",
+      "NNB"
+    ]
+  },
+  {
+    "text": "그런 거 말고 나쁜 것 좀 얘기해주세요.",
+    "answer": "거/NNB",
+    "split_answer": [
+      "거",
+      "NNB"
+    ]
+  },
+  {
+    "text": "근데 그 언니는 항상 같은 마음으로 옆에서 보살핀 거 같애",
+    "answer": "거/NNB",
+    "split_answer": [
+      "거",
+      "NNB"
+    ]
+  },
+  {
+    "text": "거 갖다 놓을 자리가 없어 가지고",
+    "answer": "거/NP",
+    "split_answer": [
+      "거",
+      "NP"
+    ]
+  },
+  {
+    "text": "지금 거 가 있는데",
+    "answer": "거/NP",
+    "split_answer": [
+      "거",
+      "NP"
+    ]
+  },
+  {
+    "text": "거 안했지 내가 알 수가 있어?",
+    "answer": "거/NP",
+    "split_answer": [
+      "거",
+      "NP"
+    ]
+  },
+  {
+    "text": "거 너 써빙해?",
+    "answer": "거/NP",
+    "split_answer": [
+      "거",
+      "NP"
+    ]
+  }
+]

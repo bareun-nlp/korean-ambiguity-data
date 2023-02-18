@@ -1,0 +1,86 @@
+[
+  {
+    "text": "제 소개가 늦었네요.",
+    "answer": "소개/NNG+가/JKS",
+    "split_answer": [
+      [
+        "소개",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKS"
+      ]
+    ]
+  },
+  {
+    "text": "지금 상황에서는 전문가 소개가 필요하다.",
+    "answer": "소개/NNG+가/JKC",
+    "split_answer": [
+      [
+        "소개",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "소개가 늦었습니다.",
+    "answer": "소개/NNG+가/JKC",
+    "split_answer": [
+      [
+        "소개",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "어 여러 신문지 상에도 소개가 되고요.",
+    "answer": "소개/NNG+가/JKC",
+    "split_answer": [
+      [
+        "소개",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "서울에서 제일 맛있는 집으로 소개가 되었다.",
+    "answer": "소개/NNG+가/JKC",
+    "split_answer": [
+      [
+        "소개",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  },
+  {
+    "text": "우리 언론에서도 가끔 소개가 된다.",
+    "answer": "소개/NNG+가/JKC",
+    "split_answer": [
+      [
+        "소개",
+        "NNG"
+      ],
+      [
+        "가",
+        "JKC"
+      ]
+    ]
+  }
+]
