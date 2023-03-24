@@ -130,3 +130,27 @@ python3 src/ambiguate_test_models.py -p data -o output/errors -t bareun,kiwi,kha
 ```
 python3 src/ambiguate_test_models.py -p data -o output/errors -t kiwi,khaiii,mecab,komoran,hannanum,kkma
 ```
+
+## **인용하기**
+* 아래의 DOI 또는 BibTeX를 통해 인용해주세요.
+
+  * DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7765445.svg)](https://doi.org/10.5281/zenodo.7765445)
+  * BibTeX:
+```BibTeX
+@misc{korean-ambiguity-dataset,
+author = {Bareun Team},
+title = {Korean Morpheme Disambiguation Evaluation Dataset},
+year = {2023},
+month = {03},
+version = {v1.0},
+doi = {https://doi.org/10.5281/zenodo.7765445},
+journal = {GitHub repository},
+note = {\url{https://github.com/bareun-nlp/korean-ambiguity-data}}
+}
+```
+
+* Cite as
+
+```
+Bareun Team. (2023). Korean Morpheme Disambiguation Evaluation Dataset (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7765445
+```
